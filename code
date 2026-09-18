@@ -1,0 +1,16 @@
+Autonomous-Military-Robots-Simulation/
+│
+├── src/
+│   ├── robot.py
+│   ├── lidar.py
+│   ├── navigation.py
+│   └── mapping.py
+│
+├── simulation/
+│   └── simulator.py
+│
+├── maps/
+│   └── test_map.png
+│
+├── requirements.txt
+└── README.md
